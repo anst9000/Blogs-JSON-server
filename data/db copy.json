@@ -1,0 +1,54 @@
+{
+  "polls": [
+    {
+      "answerA": "Vue",
+      "anwerB": "React",
+      "id": 1,
+      "question": "Do you prefer Vue or React?"
+    }
+  ],
+  "posts": [
+    {
+      "body": "These are incredibly fun, especially toward the end of the year. Or the beginning of a new year. Take a look at what's happening in your market. What's hot? What are the current trends? And create a blog post around those with your predictions for the new year. Not only are these types of posts a TON of fun but they also position you as a leader in your market. So whip out the ‘ol Magic 8 Ball and publish your predictions!",
+      "id": 1,
+      "likes": 30,
+      "title": "Make a Predictions Post"
+    },
+    {
+      "body": "This is a blog post that I recommend EVERY blogger do. One of the fastest ways to start truly engaging with your community is to give them a peek behind the curtain. Let them see who you are BEYOND just business. The fact is that we are living through the humanization of business and people are extremely interested in the person BEHIND the business itself.",
+      "id": 2,
+      "likes": 15,
+      "title": "Things You Might Not Know About Me"
+    },
+    {
+      "body": "People LOVE controversy. That's why the news channels thrive on ‘bad' news. Kind of concerning but knowing this can help you instantly increase your email open rates, improve your headlines, and get your articles read.",
+      "id": 3,
+      "likes": 20,
+      "title": "Why I Don't Do Espresso"
+    },
+    {
+      "body": "No one can resist a good case study. It's like a good story. People love to get a behind-the-scenes look at EXACTLY how someone has achieved a certain goal.",
+      "id": 4,
+      "likes": 17,
+      "title": "Case Study"
+    },
+    {
+      "body": "Here's a twist on the traditional product review post. Instead of just reviewing a product, we're going to do a product showdown comparing two similar products and sharing the pros and cons of each. Some examples might include: Optimize Press Vs. Kajabi Rapid Action Profits VS. JVZoo Tweet Adder Vs. Tweet Attacks Odesk Vs. Fiverr You're providing extra value by comparing similar (and possibly) competing products. Helping your reader to decide which one is best for them.",
+      "id": 5,
+      "likes": 8,
+      "title": "Product Showdowns"
+    },
+    {
+      "title": "How to write the best blog",
+      "body": "The best blogs share similar properties that make them successful: they post engaging and useful content that attracts visitors and makes them want to read more. Popular blog writers know how to communicate with their target audience, as they understand how their readership thinks and feels.",
+      "likes": 0,
+      "id": 6
+    },
+    {
+      "title": "Apartment Therapy",
+      "body": "Apartment Therapy is a blog focusing on interior design. It was launched by Maxwell Ryan in 2001. Ryan is an interior designer who turned to blogging (using the moniker “the apartment therapist”). The blog has reached 20 million followers and has expanded into a full-scale media company.",
+      "likes": 0,
+      "id": 7
+    }
+  ]
+}
